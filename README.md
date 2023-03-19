@@ -4,3 +4,33 @@ We can see that so many people are traveling in their vehicles. As we traveling,
 
 This project would help us by paying the amount for toll gates. We can pay the amount before we head for the journey. In this system user will give their travelling details then they select the tolls which they want to pay then they will make payment. This process will happen before they head for journey. If the user wants to move from one place to another they can pay for all tolls or they can pay for particular tolls in this system.
 
+Code Description
+
+JAVA
+
+Sign In:
+
+
+Sign Up:
+
+
+Admin Profile:
+
+
+Admin Route :
+
+
+Admin Scan :
+
+
+Admin Pay:
+
+
+Admin History :
+
+
+QR SCAN:
+
+
+
+  
