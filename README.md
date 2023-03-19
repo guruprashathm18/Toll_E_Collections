@@ -6,30 +6,27 @@ This project would help us by paying the amount for toll gates. We can pay the a
 
 Code Description
 
-JAVA
+JAVA using Applet
 
-Sign In:
-
-
-Sign Up:
-
+Sign In / Sign Up:
+This page displays login and signup credentials where the users can login and signup. 
 
 Admin Profile:
-
+This page displays the user's -> name , id , contact number , address. 
 
 Admin Route :
+This page displays the toll name , from and to destination , vechicle type , vechicle number etc. 
 
-
-Admin Scan :
-
+QR SCan / Admin Scan :
+QR page consist of the qr code and users need to 
 
 Admin Pay:
-
+This page asks the vechicle name and type and also asks for single trip or return trips and the user need to pay. 
 
 Admin History :
+This page display all the records of the admin transactions and payment.
 
 
-QR SCAN:
 
 
 
