@@ -11,6 +11,9 @@ JAVA using Applet
 Sign In / Sign Up:
 This page displays login and signup credentials where the users can login and signup. 
 
+Toll details:
+This page displays the toll names and their respective amout we can also view the toll for checking the amount for single trip and return trip.
+
 Admin Profile:
 This page displays the user's -> name , id , contact number , address. 
 
@@ -18,7 +21,7 @@ Admin Route :
 This page displays the toll name , from and to destination , vechicle type , vechicle number etc. 
 
 QR SCan / Admin Scan :
-QR page consist of the qr code and users need to 
+QR page consist of the qr code and users need to scaan the qr to pay.
 
 Admin Pay:
 This page asks the vechicle name and type and also asks for single trip or return trips and the user need to pay. 
